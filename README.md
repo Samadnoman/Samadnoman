@@ -1,24 +1,18 @@
-# Hi, I'm Samad 👋
+# Hi, I'm Abdul Samad Khan 👋
 
-## Data Analytics | Python | SQL
+**Data Analyst | MSc Data Analytics | Based in Ireland**
 
-I'm a Data Analytics postgraduate based in Ireland, interested in exploring data, finding meaningful insights, and solving business problems.
+I have an MSc in Data Analytics and I'm looking for data analyst roles in Ireland. I use SQL, Python, Power BI and Tableau to clean and analyse data and present it as clear reports and dashboards.
 
-### 🎯 What I'm working towards
-- Building practical data analytics projects
-- Improving my Python and SQL skills
-- Learning to communicate insights through data visualisation
+### 🛠️ Tools
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-### 🛠️ Tools and technologies
-- Python
-- SQL
-- Excel
-- Data visualisation
-
-### 📂 Projects
-My project portfolio is currently being developed. I'll add completed projects here as I build and document them.
+### 🌍 Languages
+English, Urdu, Hindi, Telugu
 
 ### 🤝 Connect with me
-- [GitHub](https://github.com/Samadnoman)
-- [LinkedIn](https://www.linkedin.com/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulsamadnomankhan304)
