@@ -22,6 +22,7 @@ I have an MSc in Data Analytics and I'm looking for data analyst roles in Irelan
 **[Sports Hall Events: MongoDB Database Project](https://github.com/Samadnoman/sports-hall-events-mongodb)**
 - Designed a 1,000-document event database with embedded venue and technician documents and arrays
 - Wrote 35 queries and 15 aggregation pipelines ($group, $unwind, $bucket, $facet, $cond) in mongosh, Compass and Atlas
+- **Video walkthroughs:** [Setup](https://youtu.be/7ft50i_3DAA) · [Aggregation pipelines](https://youtu.be/kJ2FtkDr2uE) · [Compass and Atlas](https://youtu.be/s52I9tMq8ug) · [all 7 videos](https://github.com/Samadnoman/sports-hall-events-mongodb#video-walkthroughs)
 
 ### 🌍 Languages
 English, Urdu, Hindi, Telugu
