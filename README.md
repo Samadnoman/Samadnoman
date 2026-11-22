@@ -16,6 +16,7 @@ I have an MSc in Data Analytics and I'm looking for data analyst roles in Irelan
 **[MSc Advanced Analytics Project (R)](https://github.com/Samadnoman/msc-advanced-analytics-project)**
 - **Classification:** predicted benign vs malignant breast tumours with tuned Decision Tree and kNN models (kNN: 97.55% test accuracy, 97.18% sensitivity)
 - **Regression:** modelled house prices with multiple linear regression, including VIF, Breusch-Pagan and Cook's distance checks (test RMSE 7.18, MAPE 15.3%)
+- **Video walkthroughs:** [Classification](https://youtu.be/3JCD6dQ4xx0) · [Regression](https://youtu.be/Lfb_KvZFZdQ)
 
 ### 🌍 Languages
 English, Urdu, Hindi, Telugu
