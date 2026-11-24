@@ -19,20 +19,24 @@ I have an MSc in Data Analytics and I'm looking for data analyst roles in Irelan
 - Engineered customer and terminal behaviour features, tested class weighting and SMOTE, and explained models with SHAP
 - Best results: Random Forest PR-AUC 0.764 (rule baseline 0.109) and XGBoost PR-AUC 0.876, with false-positive rates below 0.05%
 
+**[Sports Hall Events: MongoDB Database Project](https://github.com/Samadnoman/sports-hall-events-mongodb)**
+- Designed a 1,000-document event database with embedded venue and technician documents and arrays
+- Wrote 35 queries and 15 aggregation pipelines ($group, $unwind, $bucket, $facet, $cond) in mongosh, Compass and Atlas
+- **Video walkthroughs:** [Setup](https://youtu.be/7ft50i_3DAA) · [Aggregation pipelines](https://youtu.be/kJ2FtkDr2uE) · [Compass and Atlas](https://youtu.be/s52I9tMq8ug) · [all 7 videos](https://github.com/Samadnoman/sports-hall-events-mongodb#video-walkthroughs)
+- Builds on [Part 1](https://github.com/Samadnoman/sports-hall-events-mongodb-part1), listed below
+
 **[MSc Advanced Analytics Project (R)](https://github.com/Samadnoman/msc-advanced-analytics-project)**
 - **Classification:** predicted benign vs malignant breast tumours with tuned Decision Tree and kNN models (kNN: 97.55% test accuracy, 97.18% sensitivity)
 - **Regression:** modelled house prices with multiple linear regression, including VIF, Breusch-Pagan and Cook's distance checks (test RMSE 7.18, MAPE 15.3%)
 - **Video walkthroughs:** [Classification](https://youtu.be/3JCD6dQ4xx0) · [Regression](https://youtu.be/Lfb_KvZFZdQ)
 
-**[Sports Hall Events: MongoDB Database Project](https://github.com/Samadnoman/sports-hall-events-mongodb)**
-- Designed a 1,000-document event database with embedded venue and technician documents and arrays
-- Wrote 35 queries and 15 aggregation pipelines ($group, $unwind, $bucket, $facet, $cond) in mongosh, Compass and Atlas
-- **Video walkthroughs:** [Setup](https://youtu.be/7ft50i_3DAA) · [Aggregation pipelines](https://youtu.be/kJ2FtkDr2uE) · [Compass and Atlas](https://youtu.be/s52I9tMq8ug) · [all 7 videos](https://github.com/Samadnoman/sports-hall-events-mongodb#video-walkthroughs)
-- Builds on [Part 1](https://github.com/Samadnoman/sports-hall-events-mongodb-part1): the first version, with 20 queries and 10 aggregation pipelines in MongoDB Atlas
-
 **[Flipkart Product Review Analysis (Tableau)](https://github.com/Samadnoman/flipkart-product-review-analysis)**
 - Cleaned 9,374 headset reviews in Excel (9,205 after removing duplicates) and wrote a data dictionary and descriptive statistics
 - Built a two-page interactive Tableau dashboard comparing boAt, OnePlus, Realme and U&I on average rating, review volume and positive review rate, with a what-if rating threshold
+
+**[Sports Hall Events: MongoDB Project Part 1](https://github.com/Samadnoman/sports-hall-events-mongodb-part1)**
+- The first version of the sports hall events database, built in MongoDB Atlas for the Relational Database module
+- Wrote 20 queries and 10 aggregation pipelines, saved as runnable `.js` files, with the full project write-ups in Word and PDF
 
 **[BE Project: Cardiovascular Disease Prediction with Machine Learning (Python)](https://github.com/Samadnoman/cardiovascular-disease-prediction-ml)**
 - Compared KNN, Logistic Regression, Decision Tree, Random Forest and SVM for predicting heart disease from 13 clinical attributes (303 patients)
