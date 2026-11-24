@@ -34,6 +34,11 @@ I have an MSc in Data Analytics and I'm looking for data analyst roles in Irelan
 - Cleaned 9,374 headset reviews in Excel (9,205 after removing duplicates) and wrote a data dictionary and descriptive statistics
 - Built a two-page interactive Tableau dashboard comparing boAt, OnePlus, Realme and U&I on average rating, review volume and positive review rate, with a what-if rating threshold
 
+**[BE Project: Cardiovascular Disease Prediction with Machine Learning (Python)](https://github.com/Samadnoman/cardiovascular-disease-prediction-ml)**
+- Compared KNN, Logistic Regression, Decision Tree, Random Forest and SVM for predicting heart disease from 13 clinical attributes (303 patients)
+- Random Forest performed best (83.9% accuracy, AUC 0.82); tuned tree depth to reduce overfitting and scaled features for SVM (58% to 75%)
+- Deployed the model on IBM Cloud with Watson Studio for real-time predictions
+
 ### 🌍 Languages
 English, Urdu, Hindi, Telugu
 
