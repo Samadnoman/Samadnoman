@@ -14,6 +14,11 @@ I have an MSc in Data Analytics and I'm looking for data analyst roles in Irelan
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ### 📂 Projects
+**[MSc Thesis: Credit Card Fraud Detection with Machine Learning (Python)](https://github.com/Samadnoman/credit-card-fraud-detection-ml)**
+- Compared a rule-based baseline with Logistic Regression, Decision Tree, Random Forest and XGBoost on two highly imbalanced fraud datasets (1.75 million and 285,000 transactions)
+- Engineered customer and terminal behaviour features, tested class weighting and SMOTE, and explained models with SHAP
+- Best results: Random Forest PR-AUC 0.764 (rule baseline 0.109) and XGBoost PR-AUC 0.876, with false-positive rates below 0.05%
+
 **[MSc Advanced Analytics Project (R)](https://github.com/Samadnoman/msc-advanced-analytics-project)**
 - **Classification:** predicted benign vs malignant breast tumours with tuned Decision Tree and kNN models (kNN: 97.55% test accuracy, 97.18% sensitivity)
 - **Regression:** modelled house prices with multiple linear regression, including VIF, Breusch-Pagan and Cook's distance checks (test RMSE 7.18, MAPE 15.3%)
