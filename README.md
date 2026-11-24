@@ -23,6 +23,11 @@ I have an MSc in Data Analytics and I'm looking for data analyst roles in Irelan
 - Designed a 1,000-document event database with embedded venue and technician documents and arrays
 - Wrote 35 queries and 15 aggregation pipelines ($group, $unwind, $bucket, $facet, $cond) in mongosh, Compass and Atlas
 - **Video walkthroughs:** [Setup](https://youtu.be/7ft50i_3DAA) · [Aggregation pipelines](https://youtu.be/kJ2FtkDr2uE) · [Compass and Atlas](https://youtu.be/s52I9tMq8ug) · [all 7 videos](https://github.com/Samadnoman/sports-hall-events-mongodb#video-walkthroughs)
+- Builds on [Part 1](https://github.com/Samadnoman/sports-hall-events-mongodb-part1): the first version, with 20 queries and 10 aggregation pipelines in MongoDB Atlas
+
+**[Flipkart Product Review Analysis (Tableau)](https://github.com/Samadnoman/flipkart-product-review-analysis)**
+- Cleaned 9,374 headset reviews in Excel (9,205 after removing duplicates) and wrote a data dictionary and descriptive statistics
+- Built a two-page interactive Tableau dashboard comparing boAt, OnePlus, Realme and U&I on average rating, review volume and positive review rate, with a what-if rating threshold
 
 ### 🌍 Languages
 English, Urdu, Hindi, Telugu
